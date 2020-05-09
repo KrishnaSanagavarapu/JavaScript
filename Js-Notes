@@ -1,0 +1,123 @@
+1. Block Scope.
+2. Global Scope.
+3. Lexical Scope.
+4. Data type.
+5. Math Library.
+6. Number Library.
+7. Strings.
+8. Prototype inheritance.
+9. Boolean.
+10. Symbols
+11. Type conversion
+12. Operators.
+13. Statements.
+14. Reference Data type. (Class, Object, array, etc).
+15. How to add methods to object.
+16. Maps and Sets.
+17. Functions declaration & expression.
+18. Default parameter.
+19. Spread operators.
+20. Call back Function (Imp).
+21. OOP's in JS.
+22. Arrow Functions.
+23. Functional programming. Call, apply & bind.
+24. Closures.
+25. Asynchronous in JS.
+26. Promises.
+27. DOM & navigation.
+28. Event Bubbling.
+29. Proxy reflection.
+30. Regex
+31. Web Workers.
+32. Generators.
+
+Types and Scopes
+Let and Const
+how to use it? What is the difference?
+Scope 
+How the scope works?
+Block Scope
+Global Scope
+Lexical Scope
+Data Types Primitive Reference
+Math Library
+How to access methods in numbers
+Number Library
+Strings
+How to define empty string
+double quote
+single method
+`
+Boolean
+Symbol
+Type Conversion
+Operators and Statements
+Math Operators,Comparision Operators,Logical operators and binary operators
+Statements
+For while if 
+Reference Data types
+Objects,Arrays, Sets, Maps,
+[Arrays],
+Play with Arrays
+For forEach
+Multi-dimensional Array
+JS Objects
+How to create empty object
+Add values to it
+Add the keys
+Access them
+How to add methods to objects
+How to use those properties using this
+Destructuring 
+Maps and sets
+They are introduced in ES6
+Functions
+Declaration and expression
+Default parameters
+Spread operators and rest params
+Callback functions
+Function passed to other function
+OOPS in JS
+Protypal in Inheritance
+Not classical Inheritance like java
+What is prototype?
+What is Prototypal Inheritance?
+Classes
+Arrow Functions
+Functional Programming Languages
+Call,Apply,Bind
+Higher Order Functions
+Closures
+Function Chaining
+Map reduce filer each every
+Modules
+Asysc JS
+Set timer
+Set interval
+Fetch APi
+Promises
+Asysnc await
+
+HTML CSS JS
+Add events
+Event bubbling
+
+Master in JS
+Proxy Reflection
+Symbol
+Regex
+Recursion
+It does not have tail optimisatiosn- don’t use it
+Webworkers
+Generators
+Redux Saga
+
+Resoursces
+Dr.Alex Rauschmayer
+Exploring js.com
+Evolution of js 
+
+
+
+
+
