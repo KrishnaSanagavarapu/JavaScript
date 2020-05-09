@@ -1,0 +1,5 @@
+/*
+Boolean
+*/
+
+let iamHungry = true;
