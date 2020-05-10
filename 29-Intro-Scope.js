@@ -1,0 +1,7 @@
+/*
+Global Scope
+Block Scope
+Lexical Scope
+Scope Chain
+
+*/
