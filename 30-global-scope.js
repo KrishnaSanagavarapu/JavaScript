@@ -10,6 +10,11 @@
  *
  * console.log(window);
  * 
+ * there is a property called window. this is globally available
+ * 
+ * - we can call them directly
+ * 
+ * 
  * this is globally available
  * 
  */
